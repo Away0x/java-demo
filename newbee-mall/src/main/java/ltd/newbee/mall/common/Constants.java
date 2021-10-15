@@ -4,7 +4,7 @@ package ltd.newbee.mall.common;
 public class Constants {
 
     // 上传文件的默认 url 前缀
-    public final static String FILE_UPLOAD_DIC = "/Users/wutong/Desktop/playground/spring-demo/newbee-mall/src/main/resources/upload\n";
+    public final static String FILE_UPLOAD_DIC = "/Users/wutong/Desktop/playground/spring-demo/newbee-mall/src/main/resources/upload/";
 
     public final static int INDEX_CAROUSEL_NUMBER = 5;//首页轮播图数量(可根据自身需求修改)
 
